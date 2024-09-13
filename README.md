@@ -1,9 +1,7 @@
 # Search & Recommendation System
 
 
-Background Intro:
-
-I was assigned to work on a personalized item search and recommendation project. It was an interactive web page for users to search mechanical equipment and items based on users’ search history. We used HTML/CSS/JavaScript and AJAX for the front-end page design, and we applied RESTful APIs and Java Servlet for the back-end service. I have mainly worked on the recommendation algorithm to make sure users get recommendations that they are interested in so that users could good user experiences. 
+I worked on developing a personalized item search and recommendation system as part of a larger project. The goal was to create an interactive web platform where users could search for mechanical equipment based on their previous search history. For the front-end, we utilized HTML, CSS, JavaScript, and AJAX to design an intuitive user interface. On the back-end, we integrated RESTful APIs and Java Servlets to manage the service. My primary contribution was refining the recommendation algorithm to ensure that users received relevant suggestions, enhancing the overall user experience.
 
 
 Problem:
